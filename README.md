@@ -1,2 +1,2 @@
 My first commit
-ALX is super
+ALX is super cool
